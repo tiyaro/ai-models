@@ -1,6 +1,6 @@
 # Tiyaro
 
-Using Tiyaro, developers an instantly search, compare and use the world's best AI via scalable REST APIs
+Using Tiyaro, developers can instantly search, compare and use the world's best AI via scalable REST APIs
 ## Popular Models
 
 | Model Name                    | Publisher | Demo                                                                                                                                                                                            | API                                                                                                                                                                                                 | Tags                                                                                                                                              |
