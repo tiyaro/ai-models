@@ -19,3 +19,9 @@ Use Tiyaro search to find more interesting models.  Examples:
 - [Time-Series](https://console.tiyaro.ai/explore?q=time%20series)
 - [Detectron2](https://console.tiyaro.ai/explore?q=detectron2)
 - [Sentiment Analysis](https://console.tiyaro.ai/explore?q=sentiment%20analysis)
+
+## API Docs
+- https://tiyaro-api.readthedocs-hosted.com/en/latest/quickstart.html
+
+## Code Samples
+- https://github.com/tiyaro/code-samples
